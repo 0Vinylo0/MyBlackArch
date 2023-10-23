@@ -1,4 +1,5 @@
 # Mi BlckArch
+![blackarch](img/BlackArch_logo.png)
 ## Blackarch
 
 BlackArch Linux es una distribución basada en Arch Linux dirigida a investigadores de seguridad y revisores de pruebas de penetración. Se descarga como una imagen de DVD en vivo la cual trae varios gestores ligeros de ventanas: Openbox, Fluxbox, Awesome y Spectrwm
