@@ -17,6 +17,8 @@ BlackArch Linux es una distribución basada en Arch Linux dirigida a investigado
   - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
   - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- Y la instalacion viene con una interfaz grafica [xfce](https://www.xfce.org/)
+![xfce](https://i.ytimg.com/vi/6oHKX_21aBY/maxresdefault.jpg)
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
